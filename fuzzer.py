@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+#################################################################
+# BasicFuzzer for an Udacity problem set.                       #
+# Based on "Babysitting an Army of Monkeys" from Charlie Miller #
+#################################################################
+
 import math
 import random
 import string
